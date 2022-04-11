@@ -7,7 +7,7 @@ namespace day24_problem
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the lambda problems");
-            LambdaFunction lambda = new LambdaFunction(); // calling
+            day24_problem lambda = new day24_problem(); // calling
             lambda.Validate();
         }
     }
