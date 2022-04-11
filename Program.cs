@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LambdaExpression
+namespace day24_problem
 {
     internal class Program
     {
