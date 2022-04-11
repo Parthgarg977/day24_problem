@@ -5,9 +5,9 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace LambdaExpression
+namespace day24_problem
 {
-    public class LambdaFunction
+    public class day24_problem
     {
         public void Validate()
         {
